@@ -1,6 +1,7 @@
 {
+  "schemaVersion": 3,
   "profile": {
-    "name": "[First] [Last]",
+    "name": "Maureen Pham",
     "role": "[Role] · [Team]",
     "tagline": "[One sentence — your focus areas and what you're working toward.]",
     "location": "[City, Country]",
@@ -12,6 +13,6 @@
       "email": ""
     }
   },
-  "alerts": [],
+  "investigations": [],
   "bec": []
 }
